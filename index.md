@@ -199,7 +199,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 {% endif %}
 
 <hr/>
-{% end comment %}
+{% endcomment %}
 
 
 {% comment %}
